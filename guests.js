@@ -8,5 +8,10 @@ window.WEDDING_GUESTS = {
     name: "Gideon Kalanzi",
     table: "",
     partySize: ""
+  },
+  "mrs-lillian-ssonko": {
+    name: "Mrs. Lillian Ssonko",
+    table: "",
+    partySize: ""
   }
 };
