@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Guest Link Generator - Golden Jubilee Invitation</title>
+    <meta
+      name="description"
+      content="Generate personalized guest invitation links for Molly and Paul M. Wasswa's Golden Jubilee."
+    >
+    <link rel="stylesheet" href="styles.css">
+    <script src="guests.js" defer></script>
+    <script src="generator.js" defer></script>
+  </head>
+  <body class="generator-page">
+    <header class="site-header" aria-label="Primary">
+      <a class="monogram" href="index.html" aria-label="Back to invitation">M P</a>
+      <nav class="top-nav" aria-label="Generator navigation">
+        <a href="index.html">Invitation</a>
+        <a href="#links">Links</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="generator-hero" aria-labelledby="generator-title">
+        <div>
+          <p class="eyebrow">Guest Links</p>
+          <h1 id="generator-title">Personalized invitation generator</h1>
+          <p>
+            Create guest codes, invitation URLs, and copy-ready entries for
+            <code>guests.js</code>.
+          </p>
+        </div>
+        <img
+          src="assets/cardphoto.png"
+          alt="Golden Jubilee invitation card"
+        >
+      </section>
+
+      <section class="section generator-workspace" aria-labelledby="workspace-title">
+        <div class="section-heading">
+          <p class="section-kicker">Source Names</p>
+          <h2 id="workspace-title">Generate from guests.js or typed names</h2>
+        </div>
+
+        <div class="generator-grid">
+          <form class="generator-form" id="guest-form">
+            <label for="base-url">Invite page URL</label>
+            <input id="base-url" name="base-url" type="url">
+
+            <label for="names-input">Guest names</label>
+            <textarea id="names-input" rows="12" spellcheck="false"></textarea>
+
+            <div class="form-actions">
+              <button class="button primary" type="submit">Generate Links</button>
+              <button class="button secondary" id="reload-guests" type="button">
+                Use guests.js Names
+              </button>
+            </div>
+          </form>
+
+          <aside class="generated-block">
+            <div class="block-header">
+              <h3>Copy into guests.js</h3>
+              <button class="small-button" type="button" data-copy-target="entries-output">
+                Copy
+              </button>
+            </div>
+            <pre><code id="entries-output"></code></pre>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section links-section" id="links" aria-labelledby="links-title">
+        <div class="section-heading">
+          <p class="section-kicker">Personal Links</p>
+          <h2 id="links-title">Generated invitation links</h2>
+        </div>
+
+        <div class="bulk-actions">
+          <button class="button secondary" type="button" id="copy-all-links">
+            Copy All Links
+          </button>
+          <span id="copy-status" role="status" aria-live="polite"></span>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Code</th>
+                <th>Invite Link</th>
+                <th>Copy</th>
+              </tr>
+            </thead>
+            <tbody id="links-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
