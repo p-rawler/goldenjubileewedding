@@ -1,69 +1,57 @@
-# Golden Jubilee Wedding Invitation
+# Molly & Paul M. Wasswa - Golden Jubilee Invitation
 
-Static wedding invitation website for Molly and Paul M. Wasswa's Golden Jubilee celebration.
+A polished, responsive, static website for the 50th Golden Jubilee celebration on Friday, 4 September 2026. It uses the supplied invitation card as its visual reference and source asset.
 
-## Run Locally
+## Run locally
 
-This site has no build step. You can open `index.html` directly in a browser.
-
-For a local web server, run this from the project folder:
+No build is required. Open `index.html` directly, or serve the folder locally:
 
 ```powershell
 python -m http.server 8080
 ```
 
-Then open:
+Then visit `http://localhost:8080/index.html`. A personalized test link is `http://localhost:8080/index.html?guest=gideon-kalanzi`.
 
-```text
-http://localhost:8080/index.html
-```
+## Add and edit guests
 
-## Add Guests
-
-Guest personalization is stored in `guests.js`.
+Guests live in `guests.js`. Each guest has a display name, an optional table number, and an optional party size:
 
 ```js
 window.WEDDING_GUESTS = {
-  "gideon-kalanzi": "Gideon Kalanzi",
-  "jane-namuli": "Jane Namuli"
+  "gideon-kalanzi": { name: "Gideon Kalanzi", table: "12", partySize: "2" },
+  "jane-namuli": { name: "Jane Namuli", table: "8", partySize: "1" }
 };
 ```
 
-Each key is the guest code used in the URL. Each value is the name shown on the invitation.
+- `name` is shown in the personal greeting and WhatsApp RSVP message.
+- `table` is shown as the guest's reserved table. Leave it empty to show “To be assigned”.
+- `partySize` is shown as the number of seats reserved. Leave it empty to hide this line.
 
-Example personalized link:
+For backwards compatibility, a simple name such as `"jane-namuli": "Jane Namuli"` also works, but it cannot hold the table or party size.
 
-```text
-index.html?guest=gideon-kalanzi
-```
+If `?guest=` is missing or unknown, the invitation uses “Guest” and hides table-specific details.
 
-If a guest code is missing, the invitation falls back to `Guest`.
+## Generate guest links
 
-## Generate Links
+Open `generator.html` after editing `guests.js`.
 
-Open `generator.html`.
-
-The generator loads the names already in `guests.js`, creates clean guest codes, and shows:
-
-- Personalized invite links
-- A complete copy-ready `guests.js` block
-- Copy buttons for individual links, all links, and guest entries
-
-You can also paste or type names into the generator, one guest per line, then click `Generate Links`.
-
-## RSVP
-
-The RSVP buttons open WhatsApp for:
+The generator loads existing guest records and creates clean codes, individual invitation URLs, and a complete copy-ready replacement block for `guests.js`. You may also type one guest per line using this format:
 
 ```text
-+256 793 709243
+Name | Table number | Party size
+Gideon Kalanzi | 12 | 2
+Jane Namuli | 8 | 1
 ```
 
-When a personalized guest link is used, the WhatsApp message includes that guest's display name.
+The table number and party size are optional. Use the copy buttons for individual links, every link, or the complete guest-record block.
 
-## Static Hosting
+## RSVP and calendar
 
-Upload these files and folders to any static host:
+The RSVP buttons open WhatsApp for `+256 793 709243` and include the personalized guest name. The invitation offers both a downloadable `.ics` calendar file and a Google Calendar link.
+
+## Static hosting
+
+Upload the project files to any static host. Keep these together:
 
 ```text
 index.html
@@ -76,22 +64,19 @@ CardPhoto.pdf
 assets/
 ```
 
-No server-side code is required.
-
 ## GitHub Pages
 
-1. Create a GitHub repository.
-2. Commit and push the site files.
-3. In GitHub, open `Settings` > `Pages`.
-4. Set the source to your main branch and root folder.
-5. Save, then use the Pages URL GitHub provides.
+1. Create a GitHub repository and upload this project.
+2. In the repository, choose **Settings → Pages**.
+3. Set the deployment source to your main branch and the root (`/`) folder.
+4. Save and wait for the Pages URL.
 
-Personalized links will look like:
+Personal invitations will use URLs like:
 
 ```text
-https://your-username.github.io/your-repo/index.html?guest=gideon-kalanzi
+https://your-username.github.io/your-repository/index.html?guest=gideon-kalanzi
 ```
 
-## Privacy Note
+## Privacy note
 
-This is a static website. Every name in `guests.js` is visible to anyone who can access the hosted site files. Do not put private notes, phone numbers, addresses, or sensitive guest details in `guests.js`.
+This is a static site. Anyone who can access the hosted files can read the guest data in `guests.js`, including names, table numbers, and party sizes. Do not store phone numbers, private notes, home addresses, or sensitive information there.
