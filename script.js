@@ -96,8 +96,10 @@
   setHref("detail-rsvp-link", rsvp);
   setHref("google-calendar-link", googleCalendarLink());
 
-  var calendarButton = document.getElementById("download-calendar");
-  if (calendarButton) calendarButton.addEventListener("click", downloadCalendarFile);
+  ["download-calendar", "details-calendar"].forEach(function (id) {
+    var calendarButton = document.getElementById(id);
+    if (calendarButton) calendarButton.addEventListener("click", downloadCalendarFile);
+  });
   updateCountdown();
   window.setInterval(updateCountdown, 1000);
 })();
