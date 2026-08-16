@@ -6,8 +6,8 @@
     <title>Guest Link Generator | Molly &amp; Paul Golden Jubilee</title>
     <meta name="description" content="Create personal Golden Jubilee invitation links and guest records.">
     <link rel="stylesheet" href="styles.css">
-    <script src="guests.js" defer></script>
-    <script src="generator.js" defer></script>
+    <script src="guests.js?v=20260816" defer></script>
+    <script src="generator.js?v=20260816" defer></script>
   </head>
   <body class="generator-page">
     <header class="site-header" aria-label="Generator navigation">
@@ -35,7 +35,8 @@
             <label for="names-input">Guest records</label>
             <textarea id="names-input" rows="12" spellcheck="false" aria-describedby="guest-help"></textarea>
             <p class="form-help" id="guest-help">Example: <code>Gideon Kalanzi | 12 | 2</code>. Table and party size are optional.</p>
-            <div class="form-actions"><button class="button primary" type="submit">Generate guest links</button><button class="button secondary" id="reload-guests" type="button">Load guests.js</button></div>
+            <div class="form-actions"><button class="button primary" type="submit">Generate guest links</button><button class="button secondary" id="reload-guests" type="button">Refresh guests.js</button></div>
+            <p class="generation-summary" id="generation-summary" role="status" aria-live="polite"></p>
           </form>
           <aside class="generated-block">
             <div class="block-header"><div><p class="detail-label">Ready to paste</p><h3>Replace the contents of guests.js</h3></div><button class="small-button" type="button" data-copy-target="entries-output">Copy records</button></div>

@@ -448,6 +448,7 @@ input, textarea { width: 100%; padding: 0.77rem 0.85rem; color: var(--ink); back
 textarea { min-height: 17rem; resize: vertical; }
 input:focus, textarea:focus, button:focus-visible, a:focus-visible { outline: 3px solid rgba(7, 27, 72, 0.3); outline-offset: 3px; }
 .form-help { margin: -0.15rem 0 0.35rem; color: var(--muted); font-size: 0.86rem; }
+.generation-summary { min-height: 1.5rem; margin: 0; color: var(--green); font-size: 0.88rem; font-weight: 700; }
 .form-actions, .bulk-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem; }
 .block-header, .bulk-actions { display: flex; justify-content: space-between; gap: 1rem; align-items: center; margin-bottom: 1rem; }
 .block-header h3 { margin: 0; color: var(--navy); font-size: 1.25rem; line-height: 1.15; }

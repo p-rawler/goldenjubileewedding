@@ -129,7 +129,11 @@
     done();
   }
 
-  function regenerate() { renderRows(buildRows(recordsFromTextarea())); }
+  function regenerate() {
+    var rows = buildRows(recordsFromTextarea());
+    renderRows(rows);
+    document.getElementById("generation-summary").textContent = rows.length ? rows.length + (rows.length === 1 ? " personalized link is" : " personalized links are") + " ready below." : "Add a guest name to generate an invitation link.";
+  }
 
   function loadGuests() {
     var rows = recordsFromGuests();
@@ -140,7 +144,28 @@
   baseUrlInput.value = currentInviteUrl();
   loadGuests();
   form.addEventListener("submit", function (event) { event.preventDefault(); regenerate(); });
-  document.getElementById("reload-guests").addEventListener("click", loadGuests);
+  document.getElementById("reload-guests").addEventListener("click", function () {
+    var refreshButton = this;
+    var freshGuestScript = document.createElement("script");
+    refreshButton.disabled = true;
+    refreshButton.textContent = "Refreshing…";
+    freshGuestScript.src = "guests.js?updated=" + Date.now();
+    freshGuestScript.onload = function () {
+      guests = window.WEDDING_GUESTS || {};
+      freshGuestScript.remove();
+      refreshButton.disabled = false;
+      refreshButton.textContent = "Refresh guests.js";
+      loadGuests();
+      if (status) status.textContent = "Loaded the latest guests.js records";
+    };
+    freshGuestScript.onerror = function () {
+      freshGuestScript.remove();
+      refreshButton.disabled = false;
+      refreshButton.textContent = "Refresh guests.js";
+      if (status) status.textContent = "Could not reload guests.js. Refresh this page and try again.";
+    };
+    document.head.appendChild(freshGuestScript);
+  });
   document.getElementById("copy-all-links").addEventListener("click", function () {
     copyText(generatedRows.map(function (row) { return row.name + ": " + row.link; }).join("\n"), "Copied all links");
   });

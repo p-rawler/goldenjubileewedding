@@ -33,7 +33,7 @@ If `?guest=` is missing or unknown, the invitation uses “Guest” and hides ta
 
 ## Generate guest links
 
-Open `generator.html` after editing `guests.js`.
+Open `generator.html` after editing `guests.js`. If the generator was already open when you made an edit, click **Refresh guests.js** to load the latest saved records.
 
 The generator loads existing guest records and creates clean codes, individual invitation URLs, and a complete copy-ready replacement block for `guests.js`. You may also type one guest per line using this format:
 
