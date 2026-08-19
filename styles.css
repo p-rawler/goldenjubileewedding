@@ -232,3 +232,53 @@ td a { color: var(--gold-dark); font-size: 0.88rem; font-weight: 700; overflow-w
   .block-header { align-items: flex-start; flex-direction: column; }
   .bulk-actions { align-items: flex-start; flex-direction: column; }
 }
+
+
+.details-section .event-list:has(img[src*="couple.jpeg"]) {
+  grid-column: 1 / -1;
+  justify-self: center;
+}
+
+.details-section .event-list:has(img[src*="couple.jpeg"]) .event-card {
+  justify-items: center;
+}
+
+.details-section .event-list:has(img[src*="couple.jpeg"]) .event-card h3 {
+  margin: 0;
+  text-align: center;
+}
+
+.details-section .event-list:has(img[src*="couple.jpeg"]) .event-card img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.couple-section .section-inner {
+  display: block;
+}
+
+.couple-section .event-list {
+  width: 100%;
+  display: block;
+}
+
+.couple-section .event-card {
+  width: 100%;
+  display: block;
+}
+
+.couple-section .couple-photo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.couple-section .couple-photo img {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  margin: 0 auto;
+}
