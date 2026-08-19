@@ -6,11 +6,13 @@
 window.WEDDING_GUESTS = {
   "gideon-kalanzi": {
     name: "Gideon Kalanzi",
+    zone: "green",
     table: "",
     partySize: ""
   },
   "mrs-lillian-ssonko": {
     name: "Mrs. Lillian Ssonko",
+    zone: "gold",
     table: "",
     partySize: ""
   }

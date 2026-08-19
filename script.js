@@ -14,10 +14,31 @@
   var guestCode = (params.get("guest") || "").trim().toLowerCase();
 
   function guestRecord(value) {
-    if (typeof value === "string") return { name: value, table: "", partySize: "" };
-    if (value && typeof value === "object") return { name: value.name || "Guest", table: value.table || "", partySize: value.partySize || "" };
-    return { name: "Guest", table: "", partySize: "" };
+  if (typeof value === "string") {
+    return {
+      name: value,
+      zone: "",
+      table: "",
+      partySize: ""
+    };
   }
+
+  if (value && typeof value === "object") {
+    return {
+      name: value.name || "Guest",
+      zone: value.zone || "",
+      table: value.table || "",
+      partySize: value.partySize || ""
+    };
+  }
+
+  return {
+    name: "Guest",
+    zone: "",
+    table: "",
+    partySize: ""
+  };
+}
 
   var guest = guestRecord(guests[guestCode]);
 
@@ -87,9 +108,29 @@
   }
 
   setText("guest-name", guest.name);
-  setText("guest-name-card", guest.name);
-  setText("guest-table", guest.table ? "Table " + guest.table : "To be assigned");
-  setText("guest-party", guest.partySize ? "Reserved for " + guest.partySize + (guest.partySize === "1" ? " guest" : " guests") : "");
+
+setText(
+  "guest-table",
+  guest.table ? "Table " + guest.table : "To be assigned"
+);
+
+setText(
+  "guest-party",
+  guest.partySize
+    ? "Reserved for " +
+        guest.partySize +
+        (guest.partySize === "1" ? " guest" : " guests")
+    : ""
+);
+
+var zoneNode = document.getElementById("guest-zone");
+
+if (zoneNode) {
+  zoneNode.style.setProperty(
+    "--zone-color",
+    guest.zone || "#b87816"
+  );
+}
 
   var rsvp = whatsappLink(guest.name);
   setHref("hero-rsvp-link", rsvp);
