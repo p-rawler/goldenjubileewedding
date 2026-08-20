@@ -15,5 +15,108 @@ window.WEDDING_GUESTS = {
     zone: "gold",
     table: "",
     partySize: ""
-  }
+  },
+  "mr-&-mrs-ssemaganda-richard": {
+    name: "Mr & Mrs Ssemaganda Richard",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-kawooya": {
+    name: "Mr & Mrs Kawooya",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-deborah-namatovu": {
+    name: "Ms. Deborah Namatovu",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-anitah-nalwoga": {
+    name: "Ms. Anitah Nalwoga",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-bonnie": {
+    name: "Mr. Bonnie",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-joppy": {
+    name: "Mr. Joppy",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-bukenya": {
+    name: "Mr & Mrs Bukenya",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-ssensozi-james": {
+    name: "Mr. Ssensozi James",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-ssentumbwe": {
+    name: "Mr & Mrs Ssentumbwe",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-nambalirwa-lynda": {
+    name: "Ms. Nambalirwa Lynda",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-specioza-kalinzi": {
+    name: "Mr & Mrs Specioza Kalinzi",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-namanda-immaculate": {
+    name: "Ms. Namanda Immaculate",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-mugisa": {
+    name: "Mr & Mrs Mugisa",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-ssekajja": {
+    name: "Mr & Mrs Ssekajja",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-omongole": {
+    name: "Mr & Mrs Omongole",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-tumusiime": {
+    name: "Mr & Mrs Tumusiime",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-mulindwa": {
+    name: "Mr & Mrs Mulindwa",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+
 };
