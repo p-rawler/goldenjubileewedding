@@ -197,8 +197,8 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "nasimbwa-habiba": {
-    name: "Nasimbwa Habiba",
+  "ms-nasimbwa-habiba": {
+    name: "Ms. Nasimbwa Habiba",
     zone: "lemon",
     table: "",
     partySize: ""
