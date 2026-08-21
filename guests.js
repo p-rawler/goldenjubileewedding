@@ -205,7 +205,7 @@ window.WEDDING_GUESTS = {
   },
   "maama-hana-and-family": {
     name: "Maama Hana and family",
-    zone: "brown",
+    zone: "#964B00",
     table: "",
     partySize: ""
   },
