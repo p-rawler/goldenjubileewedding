@@ -193,13 +193,13 @@ window.WEDDING_GUESTS = {
   },
   "mr-mulindwa-shafick": {
     name: "Mr.Mulindwa Shafick",
-    zone: "lemon green",
+    zone: "#ADF802",
     table: "",
     partySize: ""
   },
   "ms-nasimbwa-habiba": {
     name: "Ms. Nasimbwa Habiba",
-    zone: "lemon green",
+    zone: "#ADF802",
     table: "",
     partySize: ""
   },
