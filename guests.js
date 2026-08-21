@@ -208,7 +208,12 @@ window.WEDDING_GUESTS = {
     zone: "#964B00",
     table: "",
     partySize: ""
-  },
-
+  }, 
+  "mr-and-mrs-karanja-and-family": {
+    name: "Mr. & Mrs. Karanja and Family",
+    zone: "Gold",
+    table: "",
+    partySize: ""
+  }, 
 
 };
