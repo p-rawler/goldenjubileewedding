@@ -119,4 +119,96 @@ window.WEDDING_GUESTS = {
     partySize: ""
   },
 
+  "aunt-namala-berna": {
+    name: "Aunt Namala Berna",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-balyogera": {
+    name: "Mr & Mrs Balyogera",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-eric-kirabo": {
+    name: "Mr. Eric Kirabo",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-edrian-bwengye": {
+    name: "Mr. Edrian Bwengye",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-elvis-muhangi": {
+    name: "Mr. Elvis Muhangi",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-bwogi": {
+    name: "Mr & Mrs Bwogi",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr&ms-yiga": {
+    name: "Mr & Ms Yiga",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "salongo-ne-nalongo-yiga": {
+    name: "Salongo Ne Nalongo Yiga",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr&mrs-gayi": {
+    name: "Mr & Mrs Gayi",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-namala-winnie": {
+    name: "Ms. Namala Winnie",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-bamungiriza-joshua": {
+    name: "Mr . Bamungiriza Joshua",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "ms-kimera-lisa": {
+    name: "Ms. Kimera Lisa",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr-mulindwa-shafick": {
+    name: "Mr.Mulindwa Shafick",
+    zone: "lemon",
+    table: "",
+    partySize: ""
+  },
+  "nasimbwa-habiba": {
+    name: "Nasimbwa Habiba",
+    zone: "lemon",
+    table: "",
+    partySize: ""
+  },
+  "maama-hana-and-family": {
+    name: "Maama Hana and family",
+    zone: "brown",
+    table: "",
+    partySize: ""
+  },
+
+
 };
