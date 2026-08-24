@@ -221,5 +221,23 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   }, 
+  "miss-afande-petronella-allen-mamken": {
+    name: "Miss Afande Petronella Allen Mamken",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  }, 
+"mr.-and-mrs.-wonder": {
+  name: "Mr. and Mrs. Wonder",
+  zone: "#ADF802",
+  table: "",
+  partySize: ""
+  }, 
+"mrs.-nsubuga-joy-peace-and-family": {
+  name: "Mrs. Nsubuga Joy Peace and Family",
+  zone: "#ADF802",
+  table: "",
+  partySize: ""
+  },
 
 };
