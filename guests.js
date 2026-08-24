@@ -239,5 +239,17 @@ window.WEDDING_GUESTS = {
   table: "",
   partySize: ""
   },
+  "women-on-the-frontline": {
+    name: "Women on the frontline",
+    zone: "#964B00",
+    table: "",
+    partySize: ""
+  }, 
+  "mr-samula-arthur": {
+    name: "Mr. Samula Arthur",
+    zone: "orange",
+    table: "",
+    apartySize: ""
+  },
 
 };
