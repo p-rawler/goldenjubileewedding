@@ -251,5 +251,17 @@ window.WEDDING_GUESTS = {
     table: "",
     apartySize: ""
   },
+  "ms-annet-nabuuma": {
+    name: "Ms. Annet Nabuuma",
+    zone: "orange",
+    table: "",
+    apartySize: ""
+  },
+  "mr-andrew-lukwata": {
+    name: "Mr. Andrew Lukwata",
+    zone: "orange",
+    table: "",
+    apartySize: ""
+  },
 
 };
