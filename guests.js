@@ -263,5 +263,360 @@ window.WEDDING_GUESTS = {
     table: "",
     apartySize: ""
   },
+  "mr-william": {
+    name: "Mr. William",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-joseph": {
+    name: "Mr. Joseph",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-shafick": {
+    name: "Mr. Shafick",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-habiba": {
+    name: "Ms. Habiba",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-samira": {
+    name: "Ms. Samira",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-shakira": {
+    name: "Ms. Shakira",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-nalwadda": {
+    name: "Ms. Nalwadda",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-aashir-mutumba": {
+    name: "Mr. & Mrs. Aashir Mutumba",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-wetaka-finito": {
+    name: "Mr & Mrs Wetaka Finito",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "pr-ruth-muwanguzi-tabiro": {
+    name: "Pr. Ruth Muwanguzi Tabiro",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-desire-joseph": {
+    name: "Mr. Desire Joseph",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-resty-kasozi": {
+    name: "Mr & Mrs Resty Kasozi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-kevin-&-ms-shalom-kazibwe": {
+    name: "Mr. Kevin & Ms.Shalom Kazibwe",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-derick-&-ms-faith-nyakojo": {
+    name: "Mr. Derick & Ms.Faith Nyakojo",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-seed-wandera": {
+    name: "Mr & Mrs Seed Wandera",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "dr-francis": {
+    name: "Dr. Francis",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "pr-collins-kanyantsi": {
+    name: "Pr. Collins Kanyantsi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-moses-ssewankambo": {
+    name: "Mr & Mrs Moses Ssewankambo",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-&-mrs-sserunjoji": {
+    name: "Mr & Mrs Sserunjoji",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr&-mrs-pr-rashid": {
+    name: "Mr& Mrs Pr Rashid",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-ssembatya": {
+    name: "Mr. Ssembatya",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-mukisa": {
+    name: "Mr. Mukisa Mark",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "sister-nabbosa": {
+    name: "Sister Nabbosa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-juliet": {
+    name: "Miss Juliet Sseguya",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-atugonza": {
+    name: "Miss Atugonza Regina",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-josephine": {
+    name: "Miss Josephine Sumanta",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "silvia-mirembe": {
+    name: "Silvia Mirembe",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrssembuya-justine": {
+    name: "Mrs. Sembuya Justine",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-sentongo-janifer": {
+    name: "Mrs. Sentongo Janifer",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-kimuli-ruth": {
+    name: "Mrs. Kimuli Ruth",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-makiranda-kamiyati": {
+    name: "Miss Makiranda Kamiyati",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-kasalija-janijer": {
+    name: "Mrs. Kasalija Janijer",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-mdinaye-betty": {
+    name: "Miss Mdinaye Betty",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "rose-georgina": {
+    name: "Rose Georgina",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-kasagga-annet": {
+    name: "Mrs. Kasagga Annet",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-nakkazi-harriet": {
+    name: "Miss Nakkazi Harriet",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-lutalo-margret": {
+    name: "Miss Lutalo Margret",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-mwesigwa-justine": {
+    name: "Miss Mwesigwa Justine",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-kavuma-faith": {
+    name: "Mrs. Kavuma Faith",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kayanja-joseph": {
+    name: "Mr. Kayanja Joseph",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kasajja-godfrey": {
+    name: "Mr. Kasajja Godfrey",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-mubuuke-jackson": {
+    name: "Mr. Mubuuke Jackson",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-lukungu-moses": {
+    name: "Mr. Lukungu Moses",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kayiza-tom": {
+    name: "Mr. Kayiza Tom",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-male-paul": {
+    name: "Mr. Male Paul",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kalangwa-livingstone": {
+    name: "Mr. Kalangwa Livingstone",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-ngobi-sylivia": {
+    name: "Mrs Ngobi and Sylivia",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kayesu-peter": {
+    name: "Mr. Kayesu Peter",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastors-joy-godfrey-kalungi": {
+    name: "Pastors Joy and Godfrey Kalungi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-kay-kirabo-benjamin-kisakye-javan": {
+    name: "Miss Kay Kirabo, Benjamin , Kisakye, Javan ",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-tendo-godlive": {
+    name: "Miss Tendo Godlive",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-godfrey-and-betty-wanyama": {
+    name: "Pastor  Godfrey and Betty Wanyama",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-bob-mugaga": {
+    name: "Mr. Bob mugaga",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-debra-kabaka": {
+    name: "Miss Debra Kabaka",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-noreen-muwala-and-family": {
+    name: "Pastor Noreen  Muwala and family",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "miss-christine": {
+    name: "Miss Christine",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-ssebuguzi-stella-and-family": {
+    name: "Mrs Ssebuguzi Stella  and family",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-akugoba-suzan": {
+    name: "Mrs Akugoba suzan",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-joshua-kiwalabye": {
+    name: "Pastor Joshua Kiwalabye",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  
 
 };
