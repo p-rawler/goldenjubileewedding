@@ -893,6 +893,119 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-
+"mrs-musoke-grace": {
+    name: "Mrs Musoke Grace",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-mugenyi": {
+    name: "Mr and Mrs Mugenyi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mummy-divine": {
+    name: "Mummy Divine",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "nummy-makumbi": {
+    name: "Nummy Makumbi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs-juliet": {
+    name: "Mrs Juliet",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "muky-ndayishaba": {
+    name: "Muky. Ndayishaba",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+"mummy-zainab": {
+    name: "Mummy Zainab",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-mugala-james": {
+    name: "Mr. Mugala James",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mummy-joan": {
+    name: "Mummy Joan",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-savio": {
+    name: "Mr. SAVIO",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms-namatovu-ruth": {
+    name: "Ms. Namatovu Ruth",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms-naggayi-sarah": {
+    name: "Ms. Naggayi Sarah",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms-mutesi-resty": {
+    name: "Ms. Mutesi Resty",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-yawe-anthony": {
+    name: "Mr. Yawe .M. Anthony",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms-ndagire-sarah": {
+    name: "Ms. Ndagire Sarah",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms-babirye-dorothy": {
+    name: "Ms. Babirye Dorothy",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-guloba-noor": {
+    name: "Mr. Guloba Noor",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "maama-daphine": {
+    name: "Maama Daphine",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-odong-david": {
+    name: "Mr. Odong David",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
