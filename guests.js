@@ -766,6 +766,133 @@ window.WEDDING_GUESTS = {
     zone: "#ADF802",
     table: "",
     partySize: ""
-  }
+  }, 
+  "mrs-nakabaale-faridah": {
+    name: "Mrs. Nakabaale Faridah",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-bityo-silver": {
+    name: "Ms. Bityo Silver",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "eng-ssenyange-samuel": {
+    name: "Eng. Ssenyange Samuel",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-daniel-katumba": {
+    name: "Mr. Daniel Katumba",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-alex-moriah-kawesi": {
+    name: "Mr.Alex & Moriah Kawesi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-saka": {
+    name: "Mr. Saka",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "maama-hannah": {
+    name: "Maama Hannah",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-irene-Freedom-City": {
+    name: "Ms. Irene Freedom City",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms-natasha-kagiri": {
+    name: "Ms. Natasha Kagiri",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-nigel-andred": {
+    name: "Mr. Nigel Andred",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-mrs-twaha": {
+    name: "Mr&Mrs Twaha",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-mugisha": {
+    name: "Mr and Mrs Mugisha",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "patrick": {
+    name: "Patrick",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-bena-kaganda": {
+    name: "Mr and Mrs Bena Kaganda",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "gideon": {
+    name: "Gideon",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "elder-and-mrs-namatiyi": {
+    name: "Elder & Mrs Namatiyi",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mr-kyambade-richard": {
+    name: "Mr. Kyambade Richard",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "salongo-ssegirinya-edward": {
+    name: "Salongo Ssegirinya Edward",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-kigozi-simon peter": {
+    name: "Mr. Kigozi Simon Peter",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ps-lubwama-patrick": {
+    name: "Ps. Lubwama Patrick",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ps-ssebyala-bethel": {
+    name: "Ps. Ssebyala Bethel",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+
 
 };
