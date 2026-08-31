@@ -739,28 +739,33 @@ window.WEDDING_GUESTS = {
   },
   "mr-and-mrs-kiwanuka": {
     name: "Mr & Mrs Kiwanuka",
-    zone: "#orange",
+    zone: "orange",
     table: "",
     partySize: ""
   },
   "mrs-nsereko": {
     name: "Mrs Nsereko",
-    zone: "#orange",
+    zone: "orange",
     table: "",
     partySize: ""
   },
   "aunt-prossy-nakuya": {
     name: "Aunt Prossy Nakuya",
-    zone: "#orange  ",
+    zone: "orange  ",
     table: "",
     partySize: ""
   },
   "mr-and-mrs-ruteraho": {
     name: "Mr & Mrs Ruteraho",
-    zone: "#orange",
+    zone: "orange",
     table: "",
     partySize: ""
-  },
-  
+  }, 
+  "mr-and-mrs-musisi": {
+    name: "Mr and Mrs Musisi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  }
 
 };
