@@ -617,6 +617,150 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "mr-and-mrs-tumwebaze": {
+    name: "Mr and Mrs Tumwebaze",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kiwalabye": {
+    name: "Mr and Mrs kkiwalabye",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kazibwe": {
+    name: "Mr and Mrs Kazibwe",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ruth-namutebi": {
+    name: "Ruth Namutebi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "bukirwa-diana": {
+    name: "Bukirwa Diana",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-muhoozi": {
+    name: "Mr and Mrs Muhoozi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kanyike": {
+    name: "Mr and Mrs Kanyike William",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mrs-akugoba": {
+    name: "Mrs Akugoba Suzan",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mrs-sebuguzi": {
+    name: "Mrs Sebuguzi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "pr-noeline": {
+    name: "Pr Noeline Mirembe",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "christine-mirembe": {
+    name: "Christine Mirembe",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "madina-nabosa": {
+    name: "Madina Nabosa",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "deborah-kabaka": {
+    name: "Deborah Kabaka",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kalangwa": {
+    name: "Mr and Mrs Kalangwa",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "joy-serwanga": {
+    name: "Joy Serwanga",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "bob-mugaga": {
+    name: "Bob Mugaga",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-nsubuga": {
+    name: "Mr and Mrs Nsubuga",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "sanyu-cleophas": {
+    name: "Sanyu cleophas",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "nalongo-seguya": {
+    name: "Nalongo Seguya",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-joan-nsubuga": {
+    name: "Mr & Mrs Joan Nsubuga",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kiwanuka": {
+    name: "Mr & Mrs Kiwanuka",
+    zone: "#orange",
+    table: "",
+    partySize: ""
+  },
+  "mrs-nsereko": {
+    name: "Mrs Nsereko",
+    zone: "#orange",
+    table: "",
+    partySize: ""
+  },
+  "aunt-prossy-nakuya": {
+    name: "Aunt Prossy Nakuya",
+    zone: "#orange  ",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-ruteraho": {
+    name: "Mr & Mrs Ruteraho",
+    zone: "#orange",
+    table: "",
+    partySize: ""
+  },
   
 
 };
