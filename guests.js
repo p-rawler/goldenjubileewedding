@@ -839,8 +839,8 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "patrick": {
-    name: "Patrick",
+  "mr-patrick": {
+    name: "Mr. Patrick",
     zone: "#ADF802",
     table: "",
     partySize: ""
@@ -851,8 +851,8 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "gideon": {
-    name: "Gideon",
+  "mr-gideon": {
+    name: "Mr. Gideon",
     zone: "#ADF802",
     table: "",
     partySize: ""
