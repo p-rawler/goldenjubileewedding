@@ -1085,6 +1085,41 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   }, 
-  
+  "ms.-teddy-kibuuka-taddwa": {
+    name: "Ms. Teddy Kibuuka Taddwa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-deogratious-kigongo": {
+    name: "Mr. Deogratious Kigongo",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-maria-kuteesa": {
+    name: "Mrs. Maria Kuteesa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-teddy-kagwa": {
+    name: "Mrs. Teddy Kagwa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "rebeca-nakandi": {
+    name: "Rebeca Nakandi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "nakiyinji-gorret": {
+    name: "Nakiyinji Gorret",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
