@@ -1121,5 +1121,20 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "pastor-isaac-rwomushana": {
+    name: "Pastor Isaac Rwomushana",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-kuteesa": {
+    name: "Mr. & Mrs. Kuteesa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  Pastor. Joseph Mwesigwa 
+  Mr. Okalang Moses
+  Mr. Sentamu Denis
 
 };
