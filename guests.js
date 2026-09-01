@@ -1079,6 +1079,12 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "wheeling-staff": {
+    name: "Wheeling Staff",
+    zone: "",
+    table: "",
+    partySize: ""
+  }, 
   
 
 };
