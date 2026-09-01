@@ -1013,5 +1013,72 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "sarah-tibibwa-shaheen": {
+    name: "Sarah  Tibibwa Shaheen",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "divine-lps": {
+    name: "Divine LPS",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "katende-moses": {
+    name: "Katende Moses",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mayanja-godfrey": {
+    name: "Mayanja Godfrey",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "selubura-sam": {
+    name: "Selubura Sam",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mirembe-efrancy": {
+    name: "Mirembe Efrancy",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mawejje-julius": {
+    name: "Mawejje Julius",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "stella-twalle": {
+    name: "Stella Twalle",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "paul-bugembe": {
+    name: "Paul Bugembe",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "barak-juice-hasifah": {
+    name: "Barak Juice  Hasifah",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-and-mrs-ssesanga-robert": {
+    name: "Mr and Mrs Ssesanga Robert",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
   
+
 };
