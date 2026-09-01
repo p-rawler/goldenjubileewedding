@@ -1133,8 +1133,23 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  Pastor. Joseph Mwesigwa 
-  Mr. Okalang Moses
-  Mr. Sentamu Denis
+  "pastor-joseph-mwesigwa": {
+    name: "Pastor. Joseph Mwesigwa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-okalang-moses": {
+    name: "Mr. Okalang Moses",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr-sentamu-denis": {
+    name: "Mr. Sentamu Denis",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
