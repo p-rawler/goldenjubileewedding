@@ -1205,5 +1205,41 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "ms.-prossy-nakayiza": {
+    name: "Ms. Prossy Nakayiza",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-ngobi": {
+    name: "Mrs. Ngobi",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms.-sylivia": {
+    name: "Ms. Sylivia",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "pastor-mwesigwa-nsambya": {
+    name: "Pastor Mwesigwa Nsambya",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "ms.-brenda-muyooki": {
+    name: "Ms. Brenda Muyooki",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-bishop-mwesigwa": {
+    name: "Mr. & Mrs. Bishop Mwesigwa",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
 
 };
