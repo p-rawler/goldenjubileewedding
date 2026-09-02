@@ -1175,5 +1175,35 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "mr.-ssemakula-edward-acrobat": {
+    name: "Mr. Ssemakula Edward Acrobat",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-regina-nsubuga": {
+    name: "Mr. & Mrs. Regina Nsubuga",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mr.-ssemakula": {
+    name: "Mr. Ssemakula",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mr.-kayongo": {
+    name: "Mr. Kayongo",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-essy-kavuma": {
+    name: "Mrs. Essy Kavuma",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
 
 };
