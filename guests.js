@@ -1241,5 +1241,17 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "kintu-suzan": {
+    name: "Kintu Suzan",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-mugisha-godfrey": {
+    name: "Mr. Mugisha Godfrey",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
