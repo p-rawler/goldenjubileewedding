@@ -1151,5 +1151,17 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "apostle-bunjo": {
+    name: "Apostle Bunjo",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
+  "dr-fresera-bunjo": {
+    name: "Dr Fresera Bunjo",
+    zone: "gold",
+    table: "",
+    partySize: ""
+  },
 
 };
