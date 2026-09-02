@@ -1169,5 +1169,11 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "elizabeth-nandawula": {
+    name: "Elizabeth Nandawula",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
 
 };
