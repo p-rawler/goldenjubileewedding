@@ -1373,14 +1373,14 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "mayah-mulungi": {
-  name: "Mayah Mulungi",
+  "ms.-mayah-mulungi": {
+  name: "Ms. Mayah Mulungi",
   zone: "purple",
     table: "",
     partySize: ""
   },
-  "nakawooya-ritah": {
-  name: "Nakawooya Ritah",
+  "ms.-nakawooya-ritah": {
+  name: "Ms. Nakawooya Ritah",
   zone: "purple",
     table: "",
     partySize: ""
@@ -1397,26 +1397,26 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "nabuuma-angel": {
-    name: "Nabuuma Angel",
+  "ms.-nabuuma-angel": {
+    name: "Ms. Nabuuma Angel",
     zone: "purple",
     table: "",
     partySize: ""
   },
-  "lutalo-wilson": {
-    name: "Lutalo Wilson",
+  "mr.-lutalo-wilson": {
+    name: "Mr. Lutalo Wilson",
     zone: "purple",
     table: "",
     partySize: ""
   },
-  "namakula-eva": {
-    name: "Namakula Eva",
+  "ms.-namakula-eva": {
+    name: "Ms. Namakula Eva",
     zone: "purple",
     table: "",
     partySize: ""
   },
-  "nakimbugwe-josephine": {
-    name: "Nakimbugwe Josephine",
+  "ms.-nakimbugwe-josephine": {
+    name: "Ms. Nakimbugwe Josephine",
     zone: "purple",
     table: "",
     partySize: ""
@@ -1427,8 +1427,8 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "sylivia-namutebi": {
-    name: "Sylivia Namutebi",
+  "ms.-sylivia-namutebi": {
+    name: "Ms. Sylivia Namutebi",
     zone: "purple",
     table: "",
     partySize: ""
@@ -1481,8 +1481,8 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "betty-wanyama": {
-    name: "Betty Wanyama",
+  "ms.-betty-wanyama": {
+    name: "Ms. Betty Wanyama",
     zone: "purple",
     table: "",
     partySize: ""
@@ -1505,14 +1505,14 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "kisakye": {
-    name: "Kisakye",
+  "mr.-kisakye": {
+    name: "Mr. Kisakye",
     zone: "purple",
     table: "",
     partySize: ""
   },
-  "javan": {
-    name: "Javan",
+  "mr.-javan": {
+    name: "Mr. Javan",
     zone: "purple",
     table: "",
     partySize: ""
@@ -1523,14 +1523,14 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "precious-kalungi": {
-    name: "Precious Kalungi",
+  "ms.-precious-kalungi": {
+    name: "Ms. Precious Kalungi",
     zone: "purple",
     table: "",
     partySize: ""
   },
-  "favor-kalungi": {
-    name: "Favor Kalungi",
+  "ms.-favor-kalungi": {
+    name: "Ms. Favor Kalungi",
     zone: "purple",
     table: "",
     partySize: ""
