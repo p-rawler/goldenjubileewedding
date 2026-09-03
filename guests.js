@@ -1517,8 +1517,14 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  "pastors-joy-and-godfrey-kalungi": {
-    name: "Pastors Joy and Godfrey Kalungi",
+  "pastor-joy": {
+    name: "Pastor Joy",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-godfrey-kalungi": {
+    name: "Pastor Godfrey Kalungi",
     zone: "purple",
     table: "",
     partySize: ""
