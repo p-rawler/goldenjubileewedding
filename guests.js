@@ -1547,5 +1547,11 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "ms.-lisa-marie": {
+    name: "Ms. Lisa Marie",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
