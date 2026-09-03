@@ -1355,6 +1355,12 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "mr.-and-mrs.-jovia-lwanga": {
+    name: "Mr. & Mrs. Jovia Lwanga",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
   
 
 };
