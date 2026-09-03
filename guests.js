@@ -1361,6 +1361,41 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
-  
+  "pastor-joseph-mwesigwa": {
+    name: "Pastor Joseph Mwesigwa",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-okalang-moses": {
+  name: "Mr. Okalang Moses",
+  zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mayah-mulungi": {
+  name: "Mayah Mulungi",
+  zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "nakawooya-ritah": {
+  name: "Nakawooya Ritah",
+  zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-denis-sentamu": {
+    name: "Pastor Denis Sentamu",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-&-mrs.-mulamba": {
+    name: "Mr. & Mrs. Mulamba",
+    zone: "#ADF802",
+    table: "",
+    partySize: ""
+  },
 
 };
