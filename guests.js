@@ -1553,5 +1553,23 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "mr.-&-mrs.sserwadda": {
+    name: "Mr. & Mrs. Sserwadda",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-&-mrs.-buule": {
+    name: "Mr. & Mrs. Buule",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "omuzaana-nomulangira-tebandeke": {
+    name: "Omuzaana nomulangira Tebandeke",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
 
 };
