@@ -1253,5 +1253,108 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "ms.-julie": {
+    name: "Ms. Julie",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  }, 
+  "ms.-martha-namuli": {
+    name: "Ms. Martha Namuli",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-kiwendo": {
+    name: "Mr. & Mrs. Kiwendo",
+    zone: "orange",
+    table: "",
+    partySize: ""
+  },
+  "mr.-mugisha-godfrey": {
+    name: "Mr. Mugisha Godfrey",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pastor-namande-rhita": {
+    name: "Pastor Namande Rhita",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-semambo-fred": {
+    name: "Mr. & Mrs. Semambo Fred",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-jimmy-kivumbi": {
+    name: "Mr. & Mrs. Jimmy Kivumbi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-kahuma": {
+    name: "Mr. & Mrs. Kahuma",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-tendo-e": {
+    name: "Mr. & Mrs. Tendo E",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-and-mrs.-kugonza": {
+    name: "Mr. & Mrs. Kugonza",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-debora-nalwanga-jjaja-balongo": {
+    name: "Mrs. Debora Nalwanga Jjaja Balongo",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms.-dora-najuma": {
+    name: "Ms. Dora Najuma",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms.-suzan-mutesasira": {
+    name: "Ms. Suzan Mutesasira",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms.-nantongo-hilda": {
+    name: "Ms. Nantongo Hilda",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms.-harriet-najjuma": {
+    name: "Ms. Harriet Najjuma",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-kintu-suzan": {
+    name: "Mr. Kintu Suzan",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-lutalo-wilson": {
+    name: "Mr. Lutalo Wilson",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  
 
 };
