@@ -1571,5 +1571,36 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "dr.-masembe-robinson-and-wife": {
+    name: "Dr. Masembe Robinson and wife",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-&-mrs.-leo-lule-kimalempaka": {
+    name: "Mr. & Mrs. Leo Lule Kimalempaka",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-&-mrs.-apollo": {
+    name: "Mr. & Mrs. Apollo",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "pr.-oliver-musisi": {
+    name: "Pr. Oliver Musisi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "ms.-namigade-vivian": {
+    name: "Ms. Namigade Vivian",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  
 
 };
