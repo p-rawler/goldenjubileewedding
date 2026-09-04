@@ -1601,6 +1601,30 @@ window.WEDDING_GUESTS = {
     table: "",
     partySize: ""
   },
+  "mr.-&-mrs.-kyagulanyi": {
+    name: "Mr. & Mrs. Kyagulanyi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-muzirango": {
+    name: "Mrs. Muzirango",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mr.-&-mrs.-kyagulanyi": {
+    name: "Mr. & Mrs. Kyagulanyi",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
+  "mrs.-muzirango": {
+    name: "Mrs. Muzirango",
+    zone: "purple",
+    table: "",
+    partySize: ""
+  },
   
 
 };
